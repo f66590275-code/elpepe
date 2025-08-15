@@ -1,0 +1,15 @@
+{
+	id: "80c7a644-5046-3678-845d-b95f7daa182a"
+	type: "player"
+	player_name: "Santinator"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Santinator"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DDFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

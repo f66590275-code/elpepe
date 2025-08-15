@@ -1,0 +1,15 @@
+{
+	id: "27602b9b-6cf4-399b-a20f-b91084b398ac"
+	type: "player"
+	player_name: "Tierrita"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Tierrita"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7759FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

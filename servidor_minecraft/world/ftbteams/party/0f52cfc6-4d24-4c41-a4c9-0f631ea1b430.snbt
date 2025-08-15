@@ -1,0 +1,22 @@
+{
+	id: "0f52cfc6-4d24-4c41-a4c9-0f631ea1b430"
+	type: "party"
+	owner: "27602b9b-6cf4-399b-a20f-b91084b398ac"
+	ranks: {
+		27602b9b-6cf4-399b-a20f-b91084b398ac: "owner"
+		80c7a644-5046-3678-845d-b95f7daa182a: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Tierrita's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8E59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1755238606417L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Tierrita\"}]}" }
+		{ from: "27602b9b-6cf4-399b-a20f-b91084b398ac", date: 1755238619422L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Santinator\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1755240062612L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Santinator\"}]}" }
+	]
+	extra: { }
+}
