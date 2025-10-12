@@ -1,0 +1,15 @@
+{
+	id: "237ad757-5098-3f55-b304-be405dd2e4b9"
+	type: "player"
+	player_name: "Panzther"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Panzther"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5994FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

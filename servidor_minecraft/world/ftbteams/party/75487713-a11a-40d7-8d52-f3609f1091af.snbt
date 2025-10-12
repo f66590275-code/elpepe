@@ -1,0 +1,25 @@
+{
+	id: "75487713-a11a-40d7-8d52-f3609f1091af"
+	type: "party"
+	owner: "27602b9b-6cf4-399b-a20f-b91084b398ac"
+	ranks: {
+		27602b9b-6cf4-399b-a20f-b91084b398ac: "owner"
+		237ad757-5098-3f55-b304-be405dd2e4b9: "member"
+		80c7a644-5046-3678-845d-b95f7daa182a: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Juan"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59AFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1759623864384L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Tierrita\"}]}" }
+		{ from: "27602b9b-6cf4-399b-a20f-b91084b398ac", date: 1759623878033L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Panzther\"}]}" }
+		{ from: "27602b9b-6cf4-399b-a20f-b91084b398ac", date: 1759623881380L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Santinator\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1759623882147L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Panzther\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1759623935044L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Santinator\"}]}" }
+	]
+	extra: { }
+}
